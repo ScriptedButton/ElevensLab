@@ -1,0 +1,9 @@
+1. List all possible plays for the board 5?   4?   2?   6?   A?   J?   K?   5?   2? 
+
+- 6 and 5
+- A and J
+- A and K
+
+2. Yes, that is the only way to win.
+
+3. There is a form of strategy involved as you may need to save certain cards for the next drawing.
