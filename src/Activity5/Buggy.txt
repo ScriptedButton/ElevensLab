@@ -1,0 +1,15 @@
+Buggy1:
+testEmpty method.
+The comparison operator could be used improperly.
+
+Buggy2:
+testOneCard method.
+The card was never added to the deck.
+
+Buggy3:
+testShuffle method.
+The shuffle method is never invoked.
+
+Buggy4:
+testOneCard method.
+Invalid third parameter to the Deck class, it should contain an int[] not an int.
