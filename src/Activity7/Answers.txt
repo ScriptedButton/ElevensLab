@@ -1,0 +1,20 @@
+1. You will need a deck of cards, you will need a board.
+- Cards
+- Size
+- suits
+- ranks
+- values
+
+2. selectTwoCards()
+{
+ if values of selectedCards == 11 then draw
+ if selectedCards == K,J,Q then draw
+ else
+ not possible
+}
+
+3. Yes, however, the code is not yet complete.
+
+4. 
+A: When newGame() is invoked along with initialization of the board.
+B: The isLegal method.
