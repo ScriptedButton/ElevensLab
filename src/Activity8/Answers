@@ -16,3 +16,4 @@ methods are implemented in ElevensBoard. Do they cover all the differences betwe
 Thirteens, and Tens as discussed in question 1? Why or why not?
 
 The isLegal and anotherPlayIsPossible methods are abstract. Yes, these abstract methods cover the differences sufficiently.
+
