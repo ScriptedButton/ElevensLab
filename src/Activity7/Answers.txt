@@ -17,4 +17,14 @@
 
 4. 
 A: When newGame() is invoked along with initialization of the board.
-B: The isLegal method.
+B: The isLegal and anotherPlayIsPOssible methods.
+C: 0,1,3,6,7
+D:
+public static printCards(ElevensBoard board) {
+ List<Integer> cIndexes = board.cardIndexes();
+ for(int index: cIndexes){
+    System.out.println(cIndex.get(index).toString());
+ }
+}
+E:
+isLegal because it needs exact card locations.
