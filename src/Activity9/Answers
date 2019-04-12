@@ -1,0 +1,5 @@
+1) This is due to the fact that the same code can be reused between the various classes.
+
+2) This is basic functionality that shares the same code between all card game variations.
+
+3) Yes, this alternate design would be sufficient in polymorphic programming design.
